@@ -36,7 +36,7 @@ def my_chatbot(language,freeform_text):
 
 
 
-st.title("Adesina's Chatbot")
+st.title("ChatDPT")
 
 language = st.sidebar.selectbox("Language", ["english", "pidgin"])
 
